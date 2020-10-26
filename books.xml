@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+<heading>文觀大發現</heading>
+<book>
+<title>陳芃伶的食量</title>
+<author>曹孟洧</author>
+<publisher>熊貓出版社</publisher>
+<price>$200</price>
+</book>
+
+<book>
+<title>楊凱筑睡覺集</title>
+<author>邱怡文</author>
+<publisher>熊貓出版社</publisher>
+<price>$250</price>
+</book>
+</books>
